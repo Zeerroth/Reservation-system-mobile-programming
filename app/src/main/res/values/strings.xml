@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rezervasyon Sistemi</string>
+    
+    <!-- Auth -->
+    <string name="login">Giriş Yap</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="email">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="name">Ad Soyad</string>
+    <string name="dont_have_account">Hesabınız yok mu?</string>
+    <string name="already_have_account">Zaten hesabınız var mı?</string>
+    <string name="register_here">Kayıt olun</string>
+    <string name="login_here">Giriş yapın</string>
+    
+    <!-- Navigation -->
+    <string name="nav_trips">Seferler</string>
+    <string name="nav_reservations">Rezervasyonlarım</string>
+    <string name="nav_profile">Profil</string>
+    
+    <!-- Trips -->
+    <string name="search_trips">Sefer Ara</string>
+    <string name="departure">Kalkış</string>
+    <string name="destination">Varış</string>
+    <string name="date">Tarih</string>
+    <string name="all_trips">Tüm Seferler</string>
+    <string name="bus">Otobüs</string>
+    <string name="flight">Uçak</string>
+    <string name="price">Fiyat</string>
+    <string name="available_seats">Müsait Koltuk</string>
+    
+    <!-- Seat Selection -->
+    <string name="select_seat">Koltuk Seçin</string>
+    <string name="available">Müsait</string>
+    <string name="selected">Seçili</string>
+    <string name="reserved">Dolu</string>
+    <string name="total">Toplam</string>
+    <string name="confirm_reservation">Rezervasyonu Onayla</string>
+    
+    <!-- Reservations -->
+    <string name="my_reservations">Rezervasyonlarım</string>
+    <string name="active">Aktif</string>
+    <string name="cancelled">İptal Edildi</string>
+    <string name="cancel_reservation">Rezervasyonu İptal Et</string>
+    <string name="share_reservation">Paylaş</string>
+    <string name="reservation_date">Rezervasyon Tarihi</string>
+    <string name="seats">Koltuklar</string>
+    
+    <!-- Profile -->
+    <string name="profile">Profil</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="admin_panel">Admin Paneli</string>
+    
+    <!-- Admin -->
+    <string name="add_trip">Sefer Ekle</string>
+    <string name="delete_trip">Sefer Sil</string>
+    <string name="company_name">Firma Adı</string>
+    <string name="total_seats">Toplam Koltuk</string>
+    <string name="trip_type">Sefer Tipi</string>
+    <string name="time">Saat</string>
+    <string name="save">Kaydet</string>
+    
+    <!-- Messages -->
+    <string name="login_success">Giriş başarılı!</string>
+    <string name="login_failed">Giriş başarısız! E-posta veya şifre hatalı.</string>
+    <string name="register_success">Kayıt başarılı! Giriş yapabilirsiniz.</string>
+    <string name="register_failed">Kayıt başarısız!</string>
+    <string name="fill_all_fields">Lütfen tüm alanları doldurun</string>
+    <string name="reservation_success">Rezervasyon başarıyla oluşturuldu!</string>
+    <string name="reservation_cancelled">Rezervasyon iptal edildi</string>
+    <string name="trip_added">Sefer eklendi</string>
+    <string name="trip_deleted">Sefer silindi</string>
+    <string name="select_at_least_one_seat">Lütfen en az bir koltuk seçin</string>
+    
+    <!-- Demo -->
+    <string name="demo_user">Demo: user1@test.com / user123</string>
+    <string name="demo_admin">Demo: admin@test.com / admin123</string>
+    <!-- Filter -->
+    <string name="filters">Filtreler</string>
+    <string name="apply_filters">Uygula</string>
+    <string name="clear_filters">Temizle</string>
+    <string name="all">Tümü</string>
+    <string name="company">Şirket</string>
+    <string name="departure_city">Kalkış Şehri</string>
+    <string name="destination_city">Varış Şehri</string>
+    <string name="price_range">Fiyat Aralığı</string>
+    
+</resources>
